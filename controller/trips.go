@@ -7,8 +7,8 @@ import (
 	"database/sql"
 	"strconv"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/yy9415/nyctaxi/util"
-	"github.com/yy9415/nyctaxi/model"
+	"github.com/mammon1234/nyc_taxi_visualization/util"
+	"github.com/mammon1234/nyc_taxi_visualization/model"
 )
 
 func LoadPickUpData(w http.ResponseWriter, r *http.Request) {
