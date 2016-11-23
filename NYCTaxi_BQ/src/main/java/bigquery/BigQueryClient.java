@@ -16,9 +16,7 @@ import com.google.api.services.bigquery.model.TableRow;
 import java.io.IOException;
 import java.util.List;
 
-/**
- * Created by YangYu on 4/4/16.
- */
+
 
 public class BigQueryClient {
 
