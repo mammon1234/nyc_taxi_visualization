@@ -8,9 +8,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * Created by YangYu on 4/6/16.
- */
+
 public class UberDataPreprocess {
 
     private final static String rpath = "/Users/yangyu/Downloads/uber-raw-data-apr14.csv";
