@@ -20,10 +20,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Requests handler for estimating cost.
- * Created by YangYu on 2/13/16.
- */
+
 @WebServlet(name = "A2AServlet")
 public class A2AServlet extends HttpServlet {
 
